@@ -1,4 +1,4 @@
-### Olá, Eu sou o Nicolas Andrei
+### Olá, Eu sou o Nicolas
 
 <div style="display: flex">
 <a href="https://github.com/NicolasAndreiDev">
