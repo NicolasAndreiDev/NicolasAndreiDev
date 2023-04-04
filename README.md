@@ -11,4 +11,6 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="35" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" />
 </div>
