@@ -1,9 +1,12 @@
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasandreidev&show_icons=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasandreidev&layout=compact&theme=github_dark" />
 </div>
 <br>
-<div>
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/216/216593.gif" height="500"/>
+</div>
+<div align="center">
   <h2>Technologies and Tools</h2>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
