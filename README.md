@@ -4,7 +4,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/216/216593.gif" height="500"/>
+  <img src="https://giffiles.alphacoders.com/216/216593.gif" height="400"/>
 </div>
 <div align="center">
   <h2>Technologies and Tools</h2>
